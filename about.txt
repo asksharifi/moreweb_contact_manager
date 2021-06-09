@@ -1,0 +1,9 @@
+Moreweb.ir all righs reserved.
+Moreweb CM version 1.0.0
+Moreweb Contact Manager is a Fast and Secure contact manager for everybody who wants to manage contacts easily and a fast way to manage a Bulk of contacts
+Moreweb CM is Free!
+if you paid for it ...
+Moreweb CM uses a SQL databse to save your contacts info
+Enjoy!
+this is the practice version of this application! so if it crashes, it's normall!
+i'm amirhosein shk and i wantto develop the best Apps.
